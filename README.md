@@ -1,3 +1,5 @@
+this is a spam email detector made using the naive-bayes machine learing model.
+
 download all the files and install the required libraries 
 1.jupyter
 2.pandas
@@ -6,7 +8,7 @@ download all the files and install the required libraries
 5.numpy
 
 to install run the command 
-pip install pandas streamlit scikit-learn numpy pywin32
+pip install pandas streamlit scikit-learn numpy 
 
 
 after installing all the libraries open the command prompt in the environment and run the spamdetector.py file or use the command
